@@ -8,7 +8,6 @@ The verfied parameters are the following:
 - Password and password confirmation are the same.
 - All the enumerated rules above are true at the same time
 
-<img src="mainScreen.png width="250">
-                                    
-<img src="mainScreenNotFilled.png width="250">
-<img src="mainScreenFilled.png width="250">
+<img src="mainScreen.png" width="250">
+<img src="mainScreenNotFilled.png" width="250">
+<img src="mainScreenFilled.png" width="250">
