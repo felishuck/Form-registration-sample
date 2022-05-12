@@ -7,3 +7,8 @@ The verfied parameters are the following:
 - Password lenghth is equal or greater than 8 and it contains a uppercase letter.
 - Password and password confirmation are the same.
 - All the enumerated rules above are true at the same time
+
+<img src="mainScreen.png width="250">
+                                    
+<img src="mainScreenNotFilled.png width="250">
+<img src="mainScreenFilled.png width="250">
